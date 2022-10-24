@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+body {
+    font-family: 'silkscreen';
+    background: #1f1f1f;
+    color: rgb(255, 119, 0);
+}
